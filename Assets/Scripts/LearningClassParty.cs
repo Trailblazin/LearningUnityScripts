@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -22,7 +22,7 @@ public class LearningClassParty : MonoBehaviour {
         evan.firstName = "Evan";
         evan.age = 19;
         evan.isArisen = false;
-        evan.classType = "Sharpshooter";
+        evan.classType = "Strider";
 
         noah = new LearningClassPerson();
         noah.firstName = "Noah";
